@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Acrescentar a linha "Sitemap: https://ENDERECO-FINAL/sitemap.xml" quando o domínio estiver definido.
